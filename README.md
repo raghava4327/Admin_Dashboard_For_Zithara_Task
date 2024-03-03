@@ -1,5 +1,3 @@
-
-````markdown
 # Customer Data Management Application
 
 This application is designed to demonstrate a full-stack development project using React, Node.js, and PostgreSQL. It provides a simple interface for managing customer data, including features like search, pagination, and sorting.
