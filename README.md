@@ -28,7 +28,7 @@ This application is designed to demonstrate a full-stack development project usi
 ### Database Setup
 
 1. Ensure PostgreSQL is installed and running on your system.
-2. Create a database named `postgres` (or your preferred name).
+2. Create a database named `postgres`.
 3. Use the following SQL command to create the required table:
 
 ```sql
@@ -41,7 +41,6 @@ CREATE TABLE users (
     created_at TIMESTAMP
 );
 ```
-````
 
 4. Insert dummy data into the `users` table as needed.
 
