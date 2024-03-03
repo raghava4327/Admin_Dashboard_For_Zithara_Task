@@ -49,9 +49,9 @@ const CustomerTable = () => {
   // The UI of the CustomerTable component
   return (
     <div className=" flex-grow">
-      <div className="flex gap-2 m-10 justify-between">
+      <div className="flex gap-2 m-10 justify-between flex-wrap">
         {/* Search and sort options */}
-        <div className="flex w-1/2">
+        <div className="flex  md:w-1/2">
           {/* Dropdown to select the field to search by */}
           <select
             value={searchField}
